@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dc69a897-b876-4e07-a4ba-88e1f0ceadf7">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="eae763d6-84fd-49fb-ab90-db85f3f62ddf"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="dadb8934-9565-44c9-a937-e4b39a4c1b00"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d57dd6ac-0801-4a25-bf72-1faca27c1b2d"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="350179c0-11b1-4bd3-9407-5eedb730abf2"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="24788ae6-f489-418e-9d0c-5de87535be42"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c2983fd0-018c-4483-854d-c1249b7fb230"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="94eae257-904e-48ce-a563-7d37ae25bea3"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.24</compatibilityMode>
+  <languages uuid="ddfae414-f8d3-4de7-85e0-57012ac89017">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.Продажи</documents>
+</mdclass:Configuration>
